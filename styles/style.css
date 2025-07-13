@@ -146,7 +146,7 @@
   mix-blend-mode: lighten;
 }
 
-.popular .offer__button {
+.offer__button:hover {
   border: 2px solid var(--main-text-color);
   color: #000;
   background-color: var(--main-text-color);
